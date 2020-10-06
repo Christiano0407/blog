@@ -1,1 +1,2 @@
 Es un archivo para el curso de github.
+Es un curso que estamos repasando para aprender sobre Python.
