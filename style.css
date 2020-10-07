@@ -26,5 +26,11 @@ p {
     margin: 4rem auto;
     font-size: 3rem;
     color: #000000;
-    
+
+}
+.text {
+    text-align: center;
+    margin: 5rem auto;
+    font-size: 5rem;
+    color: red;
 }
