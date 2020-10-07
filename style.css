@@ -10,27 +10,45 @@ body {
     width: 100%;
     height: 100vh;
 }
+header {
+    width: 100%;
+    height: 10vh;
+    background-color: aqua;
+   /*  position: fixed; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav {
+    flex-wrap: wrap;
+}
+ h1 {
+    font-size: 6rem;
+    text-align: center;
+
+    color: #fff;
+    text-transform: uppercase;
+
+}
 section {
     width: 100%;
     height: 50vh;
 }
-h1 {
+h2 {
     margin: 2rem auto;
-    font-size: 6rem;
+    font-size: 4rem;
     text-align: center;
     text-transform: uppercase;
     color: aqua;
 }
 p {
     text-align: center;
-    margin: 4rem auto;
+    margin: 2rem auto;
     font-size: 3rem;
     color: #000000;
-
 }
-.text {
-    text-align: center;
-    margin: 5rem auto;
-    font-size: 5rem;
-    color: red;
+footer {
+    width: 100vw;
+    height: 20vh;
+    background-color: aquamarine;
 }
