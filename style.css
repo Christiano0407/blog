@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    width: 100%;
+    height: 100vh;
+}
+section {
+    width: 100%;
+    height: 50vh;
+}
+h1 {
+    margin: 2rem auto;
+    font-size: 6rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: aqua;
+}
+p {
+    text-align: center;
+    margin: 4rem auto;
+    font-size: 3rem;
+    color: #000000;
+    
+}
