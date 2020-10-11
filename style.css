@@ -47,6 +47,10 @@ p {
 }
 footer {
     width: 100%;
-    height: 20vh;
-    background-color: #000000;
+    height: 10vh;
+    background-color: #0adaff;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
